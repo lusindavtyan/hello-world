@@ -1,2 +1,3 @@
 # hello-world
-My project repository
+My name is Lusine Davtyan. I am focused on building modern and functional websites.
+
